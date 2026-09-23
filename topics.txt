@@ -1,0 +1,49 @@
+# Wikipedia article titles used as the knowledge base (one per line).
+# Edit this list to change the domain, then run: python build_index.py --refresh
+Computer network
+OSI model
+Internet protocol suite
+Transmission Control Protocol
+User Datagram Protocol
+Internet Protocol
+IPv4
+IPv6
+IP address
+Subnetwork
+Classless Inter-Domain Routing
+Network address translation
+Dynamic Host Configuration Protocol
+Domain Name System
+Domain Name System Security Extensions
+Hypertext Transfer Protocol
+HTTPS
+HTTP/2
+HTTP/3
+QUIC
+Transport Layer Security
+Border Gateway Protocol
+Open Shortest Path First
+Routing Information Protocol
+Routing
+Autonomous system (Internet)
+Address Resolution Protocol
+Ethernet
+Wi-Fi
+MAC address
+Virtual LAN
+IEEE 802.1Q
+Network switch
+Router (computing)
+Firewall (computing)
+Virtual private network
+Simple Mail Transfer Protocol
+File Transfer Protocol
+Secure Shell
+Internet Control Message Protocol
+Ping (networking utility)
+Traceroute
+Content delivery network
+Load balancing (computing)
+Denial-of-service attack
+Port (computer networking)
+List of TCP and UDP port numbers
